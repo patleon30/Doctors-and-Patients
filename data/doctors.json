@@ -1,0 +1,53 @@
+
+    "doctors": [
+        "Julius": {
+            "first_name": "Quavo",
+            "last_name": "Migos",
+            "speciality": "Culture"
+        }
+    ],
+    {
+    "doctors": [
+        "Earving": {
+            "first_name": "Offset",
+            "last_name": "Migos",
+            "speciality": "Culture"
+        }
+    ],
+    {
+    "doctors": [
+        "Magic": {
+            "first_name": "Takeoff",
+            "last_name": "Migos",
+            "speciality": "Culture"
+        }
+    ],
+
+    "patients": [
+        "Humble": {
+            "first_name": "Kendrick",
+            "last_name": "Lamar",
+            "ailment": "Arthritis",
+            "doctor_id": "To Pimp a Butterfly"
+        }
+    ]
+    "patients": [
+        "Forest Hill Drive": {
+            "first_name": "J",
+            "last_name": "Cole",
+            "ailment": "Eyez",
+            "doctor_id": "For Your Eyez Only"
+        }
+    ]
+    "patients": [
+        "Kanye": {
+            "first_name": "College",
+            "last_name": "Dropout",
+            "ailment": "Swag Flu",
+            "doctor_id": "Kardashian"
+        }
+    ]
+
+
+
+}
